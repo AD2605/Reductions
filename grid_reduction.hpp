@@ -1,3 +1,14 @@
+/**
+ * @file grid_reduction.hpp
+ * @author Atharva
+ * @brief
+ * @version 0.1
+ * @date 2024-06-15
+ *
+ * @copyright Copyright (c) 2024 Atharva
+ *
+ */
+
 #ifndef GRID_REDUCTION_HPP
 #define GRID_REDUCTION_HPP
 

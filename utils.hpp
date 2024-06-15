@@ -1,3 +1,14 @@
+/**
+ * @file utils.hpp
+ * @author Atharva
+ * @brief
+ * @version 0.1
+ * @date 2024-06-15
+ *
+ * @copyright Copyright (c) 2024 Atharva Dubey
+ *
+ */
+
 #ifndef UTILS_HPP
 #define UITLS_HPP
 
